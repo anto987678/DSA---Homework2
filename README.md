@@ -46,10 +46,5 @@ Each core has:
 - Assign tasks to cores efficiently to reduce total energy:  
   - `Energy = Execution Time × Power Rate`  
 - Generate a detailed schedule showing task order, core allocation, and total energy usage.
-  
-#### Example Output
-Minimum Total Energy Consumed: 140.00
-TaskID | CoreID | Start | End | Energy
-1      | 0      | 0.00  | 0.5 | 20
-2      | 0      | 0.5   | 3.0 | 100
-3      | 1      | 0.0   | 0.67| 20
+
+
