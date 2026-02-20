@@ -1,4 +1,4 @@
-# 🧮 Big Homework 2 – Data Structures and Algorithms  
+# Big Homework 2 – Data Structures and Algorithms  
 ### **Graphs & Binary Trees**
 
 This repository contains the second major project for the **Data Structures and Algorithms** course.  
@@ -6,9 +6,9 @@ It focuses on implementing **Graphs** and **Binary Trees** to solve complex, rea
 
 ---
 
-## 🧩 Exercises Overview
+## Exercises Overview
 
-### 🔢 **Exercise 1 – Digital Combo (Graph)**
+### **Exercise 1 – Digital Combo (Graph)**
 Design a program that generates the shortest possible sequence of digits that will eventually open a digital combination lock, regardless of the correct password.
 
 #### Description
@@ -16,7 +16,7 @@ Design a program that generates the shortest possible sequence of digits that wi
 - The goal is to create a sequence that contains every possible combination of length `n` for digits `[0, k−1]`.  
 - This problem is equivalent to generating a **De Bruijn sequence** of order `n` over an alphabet of size `k`.
   
-### 🏰 **Exercise 2 – Castle Defence (Binary Tree)**
+### **Exercise 2 – Castle Defence (Binary Tree)**
 Simulate Daenerys Targaryen’s empire and determine the **minimum number of dragons** needed to protect all cities in a hierarchical network.
 
 #### Description
@@ -27,7 +27,7 @@ Simulate Daenerys Targaryen’s empire and determine the **minimum number of dra
   - Its subordinate cities (children)  
 - The goal is to deploy as few dragons as possible while ensuring every city is protected.
 
-### ⚙️ **Exercise 3 – Core Scheduling: Minimizing Energy with Deadlines & Dependencies (Graph)**
+### **Exercise 3 – Core Scheduling: Minimizing Energy with Deadlines & Dependencies (Graph)**
 Create a **task scheduler** that minimizes total energy consumption on a multi-core system while respecting task dependencies and deadlines.
 
 #### Description
